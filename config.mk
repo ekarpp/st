@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.9
+VERSION = 0.9-ekarpp
 
 # Customize below to fit your system
 
